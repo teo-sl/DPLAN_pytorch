@@ -18,3 +18,16 @@ The code in env.py is derived from the code provided by the Github user lflfdxfn
 Future updates for this repository will include the preprocessing part for the datasets presented in Pang et al.'s paper.
 
 
+## DRAN
+
+The repository also includes a new method based on DPLAN called DRAN that removes the reinforcement learning component by using a regression layer. The method's workflow is described below.
+
+![General architecture](imgs/general_arch.png)
+
+![Main network training](imgs/regr_training.png)
+
+
+
+
+
+
