@@ -15,7 +15,9 @@ There are some differences between the work presented here and the original work
 
 The code in env.py is derived from the code provided by the Github user lflfdxfn.
 
-Future updates for this repository will include the preprocessing part for the datasets presented in Pang et al.'s paper.
+
+## UPDATE - 13/12/2023
+Added preprocessing for UNSW-NB15 dataset according to Pang et al's paper. It can be find in the preprocessing folder. 
 
 
 ## DRAN
