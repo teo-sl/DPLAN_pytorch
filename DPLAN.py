@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
-from util import hyper, DQN_iforest, get_total_reward, test_model, loss_sad, distance_from_c
+from util import hyper, DQN_iforest, get_total_reward, test_model
 from Env import ADEnv
 
 import torch
