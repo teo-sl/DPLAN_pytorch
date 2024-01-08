@@ -25,7 +25,7 @@ class DPLAN():
     """
     DPLAN agent that encapsulates the training and testing of the DQN
     """
-    def __init__(self, env : ADEnv, test_set, destination_path, c, device = 'cpu',double_dqn=True):
+    def __init__(self, env : ADEnv, test_set, destination_path, device = 'cpu',double_dqn=True):
         """
         Initialize the DPLAN agent
         :param env: the environment
